@@ -1,6 +1,7 @@
-192.168.127.147
-192.168.127.148
-192.168.127.149 
-192.168.127.146
+192.168.127.147 ansible_user=student
+192.168.127.148 ansible_user=student
+192.168.127.149 ansible_user=student
+192.168.127.146 ansible_user=almalinux
+
 
 
